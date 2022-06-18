@@ -6,7 +6,7 @@
 body {
   overflow: hidden;
   color: #fff;
-  background-color: #ff6131;
+  background-color: #54c6e0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-weight: 900;
   width: 100%;
@@ -24,7 +24,7 @@ body {
      -moz-appearance: none;
           appearance: none;
   color: white;
-  background-color: #ff5522;
+  background-color: #54c6e0;
   text-decoration: none;
   font-size: 3rem;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -36,7 +36,7 @@ body {
 }
 .roll:hover {
   background-color: #fff;
-  color: #ff6131;
+  color: #54c6e0;
 }
 
 .names {
